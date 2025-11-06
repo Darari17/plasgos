@@ -204,7 +204,7 @@ export const PlasgosCRMHero = () => {
                 </svg>
                 Konsultasi Dengan Kami
               </button>
-              <button className="inline-flex items-center justify-center gap-2 h-10 px-6 rounded-full bg-[#006BB3] border-2 border-[#99C4E1] text-white font-medium shadow-lg hover:shadow-xl transition-all max-sm:w-full">
+              <button className="inline-flex items-center justify-center gap-2 h-12 px-8 rounded-full bg-[#006BB3] border-2 border-[#99C4E1] text-white font-medium shadow-lg hover:shadow-xl transition-all max-sm:w-full hover:scale-105">
                 Aktifkan Sekarang
                 <svg
                   className="w-4 h-4"
